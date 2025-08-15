@@ -18,8 +18,8 @@ hr { margin: .6rem 0 .4rem 0; }
 """, unsafe_allow_html=True)
 
 # ---------------- Game params (UPDATED) ----------------
-ROWS = 10            # height
-COLS = 15            # width
+ROWS = 8            # height
+COLS = 10            # width
 SPACING = 2.0        # distance between dots (bigger = more space)
 DOT_SIZE = 8
 LINE_WIDTH = 3
